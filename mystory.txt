@@ -3,3 +3,6 @@ P1
 
 I was born in a small backwoods town.
 P2
+
+In the land where I was born, there lived an old man by the sea.
+P1
